@@ -1,2 +1,2 @@
-# Pymaceuticals_starter
+# Pymaceuticals Starter
 Matplotlib Assignment
